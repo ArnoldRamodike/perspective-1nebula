@@ -1,0 +1,14 @@
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\bin\Debug\net8.0\LikesApp.exe
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\bin\Debug\net8.0\LikesApp.deps.json
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\bin\Debug\net8.0\LikesApp.runtimeconfig.json
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\bin\Debug\net8.0\LikesApp.dll
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\bin\Debug\net8.0\LikesApp.pdb
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.AssemblyInfoInputs.cache
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.AssemblyInfo.cs
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.csproj.CoreCompileInputs.cache
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.dll
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\refint\LikesApp.dll
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.pdb
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\LikesApp.genruntimeconfig.cache
+D:\dev\folder\Prospective\1nebulaassesment\backend\likesapp\obj\Debug\net8.0\ref\LikesApp.dll

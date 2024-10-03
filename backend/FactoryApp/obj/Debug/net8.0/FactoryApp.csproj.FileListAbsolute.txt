@@ -1,0 +1,14 @@
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.AssemblyInfoInputs.cache
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.AssemblyInfo.cs
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.csproj.CoreCompileInputs.cache
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\bin\Debug\net8.0\FactoryApp.exe
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\bin\Debug\net8.0\FactoryApp.deps.json
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\bin\Debug\net8.0\FactoryApp.runtimeconfig.json
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\bin\Debug\net8.0\FactoryApp.dll
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\bin\Debug\net8.0\FactoryApp.pdb
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.dll
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\refint\FactoryApp.dll
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.pdb
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\FactoryApp.genruntimeconfig.cache
+D:\dev\folder\Prospective\1nebulaassesment\backend\factoryapp\obj\Debug\net8.0\ref\FactoryApp.dll
